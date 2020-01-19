@@ -1,0 +1,11 @@
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\QuestForJob.exe
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\QuestForJob.deps.json
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\QuestForJob.runtimeconfig.json
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\QuestForJob.runtimeconfig.dev.json
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\QuestForJob.dll
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\QuestForJob.pdb
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\QuestForJob.csprojAssemblyReference.cache
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\QuestForJob.AssemblyInfoInputs.cache
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\QuestForJob.AssemblyInfo.cs
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\QuestForJob.dll
+C:\Users\Данил\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\QuestForJob.pdb
